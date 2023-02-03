@@ -1,0 +1,20 @@
+{
+  "name": "webles1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "earcut": "^2.2.4",
+    "eventemitter3": "^4.0.7",
+    "howler": "^2.2.3",
+    "punycode": "^1.3.2",
+    "querystring": "^0.2.0",
+    "url": "^0.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
